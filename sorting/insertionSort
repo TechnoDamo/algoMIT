@@ -16,7 +16,7 @@ void insertionSort(int m[], int n) {
 
 int main() {
     int n;
-    cout << "Amount of elements to sort: ";
+    cout << "Amount of elements to sort:";
     cin >> n;
     int *m = new int[n];
     cout << "Input elements: " << endl;
